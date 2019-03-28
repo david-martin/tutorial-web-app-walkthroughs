@@ -109,10 +109,12 @@ Verify that you followed each step in the procedure above.  If you are still hav
 
 .Prerequisite 
 The following URL must be available before attempting this procedure:
++
 [subs="attributes+"]
 ----
 {route-fuse-flights-aggregator-host}
 ----
+
 If a valid URL is not displayed, redo the previous procedure.
 
 . Navigate to the link:{route-fuse-flights-aggregator-host}/camel/flights[Flights Endpoint, window="_blank"].
